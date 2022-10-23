@@ -27,7 +27,9 @@ export const Single = () => {
     
     <h1>A little over a year after</h1>
     <p>lorem A little over a year after the passage of the Petroleum Industry Act (PIA), the sector has remained in crutches, yoking under the weight of gross inefficiencies that have plagued it for several years.
-    lorem A little over a year after the passage of the Petroleum Industry Act (PIA), the sector has remained in crutches, yoking under the weight of gross inefficiencies that have plagued it for several years.
+    lorem A little over a year after the passage of 
+    the Petroleum Industry Act (PIA).
+    the sector has remained in crutches, yoking under the weight of gross inefficiencies that have plagued it for several years.
     lorem A little over a year after the passage of the Petroleum Industry Act (PIA), the sector has remained in crutches, yoking under the weight of gross inefficiencies that have plagued it for several years.
     </p>
     </div>
