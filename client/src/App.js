@@ -1,7 +1,7 @@
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
+  
 } from "react-router-dom";
 import { Outlet } from "react-router-dom/dist";
 //import './App.css';
